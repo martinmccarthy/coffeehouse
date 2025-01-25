@@ -1,0 +1,35 @@
+@font-face {
+    font-family: "Satoshi";
+    font-variant: normal;
+    src: url(./Fonts/Satoshi-Variable.ttf) format(truetype);
+}
+@font-face {
+    font-family: "SatoshiItalic";
+    font-variant: normal;
+    src: url(./Fonts/Satoshi-VariableItalic.ttf) format(truetype);
+
+}
+
+@font-face {
+    font-family: "Erode";
+    src: url(./Fonts/Erode-Variable.ttf) format(truetype);
+}
+@font-face {
+    font-family: "ErodeItalice";
+    src: url(./Fonts/Erode-VariableItalic.ttf);
+}
+
+@font-face {
+    font-family: "ClashDisplay";
+    src: url(./Fonts/ClashDisplay-Bold.otf) format(truetype);
+}
+
+@font-face {
+    font-family: "Zodiak";
+    src: url(./Fonts/Zodiak-Variable.ttf) format(truetype);
+}
+
+@font-face {
+    font-family: "ZodiakItalic";
+    src: url(./Fonts/Zodiak-VariableItalic.ttf) format(truetype);
+}
